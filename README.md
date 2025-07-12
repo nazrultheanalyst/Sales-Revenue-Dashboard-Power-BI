@@ -1,4 +1,4 @@
-# 📊 Sales Revenue Dashboard
+# 📊 Sales Revenue Dashboard | Power BI
 
 ## An interactive sales revenue dashboard created to visualize and analyze key business metrics, including revenue, cost, profit, views, product performance, and sales insights for the year 2023.
 
