@@ -40,7 +40,7 @@ This dashboard provides an end-to-end view of overall sales performance and prod
 
 ### 📌 Product Details
 
-![Product Details](./ProductDetails.png)
+![Product Details](./Product_Details.png)
 
 * Best selling product: **Gaming Console Z** (\$28,417 revenue, \$5,445 profit).
 * Other notable products with strong performance: **Soundbar 360**, **Headphones Plus**, **Desktop PC Ultra**.
